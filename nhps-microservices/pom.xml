@@ -21,7 +21,6 @@
         <module>dispensemicroservice</module>
         <module>patientmicroservice</module>
         <module>prescriptionmicroservice</module>
-        <module>dispensemicroservice/untitled2</module>
     </modules>
 
     <properties>
